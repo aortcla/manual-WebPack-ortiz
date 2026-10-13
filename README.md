@@ -1,2 +1,1 @@
-# WebPack-OPT
-Repositorio creado específicamente para los ejemplos y explicación de la tecnología "WebPack"
+Para ejecutar este pequeño proyecto debe lanzar el index.html y abrir las devtools con "f12", ir al apartado consola y ver el resultado del ejemplo
